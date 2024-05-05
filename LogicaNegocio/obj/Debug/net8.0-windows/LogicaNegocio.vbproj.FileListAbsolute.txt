@@ -1,0 +1,17 @@
+D:\LezanaTech\Cursos\VISUALBASIC\CrudVB\LogicaNegocio\bin\Debug\net8.0-windows\LogicaNegocio.deps.json
+D:\LezanaTech\Cursos\VISUALBASIC\CrudVB\LogicaNegocio\bin\Debug\net8.0-windows\LogicaNegocio.dll
+D:\LezanaTech\Cursos\VISUALBASIC\CrudVB\LogicaNegocio\bin\Debug\net8.0-windows\LogicaNegocio.pdb
+D:\LezanaTech\Cursos\VISUALBASIC\CrudVB\LogicaNegocio\bin\Debug\net8.0-windows\AccesoDatos.dll
+D:\LezanaTech\Cursos\VISUALBASIC\CrudVB\LogicaNegocio\bin\Debug\net8.0-windows\Entidades.dll
+D:\LezanaTech\Cursos\VISUALBASIC\CrudVB\LogicaNegocio\bin\Debug\net8.0-windows\AccesoDatos.pdb
+D:\LezanaTech\Cursos\VISUALBASIC\CrudVB\LogicaNegocio\bin\Debug\net8.0-windows\Entidades.pdb
+D:\LezanaTech\Cursos\VISUALBASIC\CrudVB\LogicaNegocio\obj\Debug\net8.0-windows\LogicaNegocio.vbproj.AssemblyReference.cache
+D:\LezanaTech\Cursos\VISUALBASIC\CrudVB\LogicaNegocio\obj\Debug\net8.0-windows\LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\LezanaTech\Cursos\VISUALBASIC\CrudVB\LogicaNegocio\obj\Debug\net8.0-windows\LogicaNegocio.AssemblyInfoInputs.cache
+D:\LezanaTech\Cursos\VISUALBASIC\CrudVB\LogicaNegocio\obj\Debug\net8.0-windows\LogicaNegocio.AssemblyInfo.vb
+D:\LezanaTech\Cursos\VISUALBASIC\CrudVB\LogicaNegocio\obj\Debug\net8.0-windows\LogicaNegocio.vbproj.CoreCompileInputs.cache
+D:\LezanaTech\Cursos\VISUALBASIC\CrudVB\LogicaNegocio\obj\Debug\net8.0-windows\LogicaNe.6CF05133.Up2Date
+D:\LezanaTech\Cursos\VISUALBASIC\CrudVB\LogicaNegocio\obj\Debug\net8.0-windows\LogicaNegocio.dll
+D:\LezanaTech\Cursos\VISUALBASIC\CrudVB\LogicaNegocio\obj\Debug\net8.0-windows\refint\LogicaNegocio.dll
+D:\LezanaTech\Cursos\VISUALBASIC\CrudVB\LogicaNegocio\obj\Debug\net8.0-windows\LogicaNegocio.pdb
+D:\LezanaTech\Cursos\VISUALBASIC\CrudVB\LogicaNegocio\obj\Debug\net8.0-windows\ref\LogicaNegocio.dll

@@ -1,0 +1,11 @@
+D:\LezanaTech\Cursos\VISUALBASIC\CrudVB\Entidades\bin\Debug\net8.0-windows\Entidades.deps.json
+D:\LezanaTech\Cursos\VISUALBASIC\CrudVB\Entidades\bin\Debug\net8.0-windows\Entidades.dll
+D:\LezanaTech\Cursos\VISUALBASIC\CrudVB\Entidades\bin\Debug\net8.0-windows\Entidades.pdb
+D:\LezanaTech\Cursos\VISUALBASIC\CrudVB\Entidades\obj\Debug\net8.0-windows\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\LezanaTech\Cursos\VISUALBASIC\CrudVB\Entidades\obj\Debug\net8.0-windows\Entidades.AssemblyInfoInputs.cache
+D:\LezanaTech\Cursos\VISUALBASIC\CrudVB\Entidades\obj\Debug\net8.0-windows\Entidades.AssemblyInfo.vb
+D:\LezanaTech\Cursos\VISUALBASIC\CrudVB\Entidades\obj\Debug\net8.0-windows\Entidades.vbproj.CoreCompileInputs.cache
+D:\LezanaTech\Cursos\VISUALBASIC\CrudVB\Entidades\obj\Debug\net8.0-windows\Entidades.dll
+D:\LezanaTech\Cursos\VISUALBASIC\CrudVB\Entidades\obj\Debug\net8.0-windows\refint\Entidades.dll
+D:\LezanaTech\Cursos\VISUALBASIC\CrudVB\Entidades\obj\Debug\net8.0-windows\Entidades.pdb
+D:\LezanaTech\Cursos\VISUALBASIC\CrudVB\Entidades\obj\Debug\net8.0-windows\ref\Entidades.dll

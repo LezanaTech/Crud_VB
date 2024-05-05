@@ -1,0 +1,15 @@
+D:\LezanaTech\Cursos\VISUALBASIC\CrudVB\AccesoDatos\bin\Debug\net8.0-windows\AccesoDatos.deps.json
+D:\LezanaTech\Cursos\VISUALBASIC\CrudVB\AccesoDatos\bin\Debug\net8.0-windows\AccesoDatos.dll
+D:\LezanaTech\Cursos\VISUALBASIC\CrudVB\AccesoDatos\bin\Debug\net8.0-windows\AccesoDatos.pdb
+D:\LezanaTech\Cursos\VISUALBASIC\CrudVB\AccesoDatos\bin\Debug\net8.0-windows\Entidades.dll
+D:\LezanaTech\Cursos\VISUALBASIC\CrudVB\AccesoDatos\bin\Debug\net8.0-windows\Entidades.pdb
+D:\LezanaTech\Cursos\VISUALBASIC\CrudVB\AccesoDatos\obj\Debug\net8.0-windows\AccesoDatos.vbproj.AssemblyReference.cache
+D:\LezanaTech\Cursos\VISUALBASIC\CrudVB\AccesoDatos\obj\Debug\net8.0-windows\AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\LezanaTech\Cursos\VISUALBASIC\CrudVB\AccesoDatos\obj\Debug\net8.0-windows\AccesoDatos.AssemblyInfoInputs.cache
+D:\LezanaTech\Cursos\VISUALBASIC\CrudVB\AccesoDatos\obj\Debug\net8.0-windows\AccesoDatos.AssemblyInfo.vb
+D:\LezanaTech\Cursos\VISUALBASIC\CrudVB\AccesoDatos\obj\Debug\net8.0-windows\AccesoDatos.vbproj.CoreCompileInputs.cache
+D:\LezanaTech\Cursos\VISUALBASIC\CrudVB\AccesoDatos\obj\Debug\net8.0-windows\AccesoDa.B03E9DE9.Up2Date
+D:\LezanaTech\Cursos\VISUALBASIC\CrudVB\AccesoDatos\obj\Debug\net8.0-windows\AccesoDatos.dll
+D:\LezanaTech\Cursos\VISUALBASIC\CrudVB\AccesoDatos\obj\Debug\net8.0-windows\refint\AccesoDatos.dll
+D:\LezanaTech\Cursos\VISUALBASIC\CrudVB\AccesoDatos\obj\Debug\net8.0-windows\AccesoDatos.pdb
+D:\LezanaTech\Cursos\VISUALBASIC\CrudVB\AccesoDatos\obj\Debug\net8.0-windows\ref\AccesoDatos.dll

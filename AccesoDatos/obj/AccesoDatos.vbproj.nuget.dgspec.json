@@ -1,0 +1,144 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\LezanaTech\\Cursos\\VISUALBASIC\\CrudVB\\AccesoDatos\\AccesoDatos.vbproj": {}
+  },
+  "projects": {
+    "D:\\LezanaTech\\Cursos\\VISUALBASIC\\CrudVB\\AccesoDatos\\AccesoDatos.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\LezanaTech\\Cursos\\VISUALBASIC\\CrudVB\\AccesoDatos\\AccesoDatos.vbproj",
+        "projectName": "AccesoDatos",
+        "projectPath": "D:\\LezanaTech\\Cursos\\VISUALBASIC\\CrudVB\\AccesoDatos\\AccesoDatos.vbproj",
+        "packagesPath": "C:\\Users\\Juan.E.Lezana\\.nuget\\packages\\",
+        "outputPath": "D:\\LezanaTech\\Cursos\\VISUALBASIC\\CrudVB\\AccesoDatos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Juan.E.Lezana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "D:\\LezanaTech\\Cursos\\VISUALBASIC\\CrudVB\\Entidades\\Entidades.vbproj": {
+                "projectPath": "D:\\LezanaTech\\Cursos\\VISUALBASIC\\CrudVB\\Entidades\\Entidades.vbproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\LezanaTech\\Cursos\\VISUALBASIC\\CrudVB\\Entidades\\Entidades.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\LezanaTech\\Cursos\\VISUALBASIC\\CrudVB\\Entidades\\Entidades.vbproj",
+        "projectName": "Entidades",
+        "projectPath": "D:\\LezanaTech\\Cursos\\VISUALBASIC\\CrudVB\\Entidades\\Entidades.vbproj",
+        "packagesPath": "C:\\Users\\Juan.E.Lezana\\.nuget\\packages\\",
+        "outputPath": "D:\\LezanaTech\\Cursos\\VISUALBASIC\\CrudVB\\Entidades\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Juan.E.Lezana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
